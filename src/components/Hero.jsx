@@ -82,7 +82,7 @@ export default function Hero() {
           <a href="#projects" className="btn-primary">
             View My Work <FiArrowRight />
           </a>
-          <a href="#contact" className="btn-outline">
+          <a href="/Dhanapriya_CV.pdf" download="G_Dhanapriya_CV.pdf" className="btn-outline">
             <FiDownload /> Download CV
           </a>
         </motion.div>
