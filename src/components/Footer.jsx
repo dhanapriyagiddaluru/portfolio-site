@@ -10,7 +10,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-content">
         <a href="#home" className="footer-logo">
-          {'<GD />'}
+
         </a>
         <p className="footer-text">
           © {new Date().getFullYear()} G. Dhanapriya. Crafted with ❤️ and lots of ☕

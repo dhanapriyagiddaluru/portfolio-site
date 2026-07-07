@@ -29,7 +29,7 @@ export default function Navbar() {
       }}
     >
       <a href="#home" className="logo">
-        {'<AC />'}
+        {'<GD />'}
       </a>
 
       <div className="nav-links">
